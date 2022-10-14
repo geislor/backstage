@@ -3780,6 +3780,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"fast-xml-parser@npm:^3.19.0":
+  version: 3.21.1
+  resolution: "fast-xml-parser@npm:3.21.1"
+  dependencies:
+    strnum: ^1.0.4
+  bin:
+    xml2js: cli.js
+  checksum: 73b9c907a424cc2f9b11a8a2f1b7448d936f1db6fa574b85cbe4be9739c2f77d99a827bb27d738a0db0047b20c71a5d663f64937fbdb9c38977fc6cd145221d2
+  languageName: node
+  linkType: hard
+
 "faye-websocket@npm:~0.10.0":
   version: 0.10.0
   resolution: "faye-websocket@npm:0.10.0"
@@ -4631,7 +4642,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"html-comment-regex@npm:^1.1.0, html-comment-regex@npm:^1.1.2":
+"html-comment-regex@npm:^1.1.0":
   version: 1.1.2
   resolution: "html-comment-regex@npm:1.1.2"
   checksum: 64c1e13c93f91554a06327176663037e630f5a47de8aae6a6a60cbca25e6d7b63ee16dd35707e33ba09288b900c6947050c6945c34a0a84d27f5415cef525599
@@ -5336,11 +5347,11 @@ __metadata:
   linkType: hard
 
 "is-svg@npm:^4.2.1":
-  version: 4.2.1
-  resolution: "is-svg@npm:4.2.1"
+  version: 4.3.2
+  resolution: "is-svg@npm:4.3.2"
   dependencies:
-    html-comment-regex: ^1.1.2
-  checksum: 071259d1d29d2a7be8f96bc96f9ce1f01433232c71cea5075438517fcab5901d94b6c861d36dc5aa10f94296d27bc3f732444aecc30d04a7efe1f7844fb6be39
+    fast-xml-parser: ^3.19.0
+  checksum: b3bce2395e25a0127e65e33fbfd8654225c303f7b45005af8eea69cc0870e252d8a01d62fd333c27247eadd38720b5459d623c292e02c14e328bf4970da891c7
   languageName: node
   linkType: hard
 
@@ -8784,6 +8795,13 @@ __metadata:
   dependencies:
     escape-string-regexp: ^1.0.2
   checksum: f8d65d33ca2b49aabc66bb41d689dda7b8b9959d320e3a40a2ef4d7079ff2f67ffb72db43f179f48dbf9495c2e33742863feab7a584d180fa62505439162c191
+  languageName: node
+  linkType: hard
+
+"strnum@npm:^1.0.4":
+  version: 1.0.5
+  resolution: "strnum@npm:1.0.5"
+  checksum: 651b2031db5da1bf4a77fdd2f116a8ac8055157c5420f5569f64879133825915ad461513e7202a16d7fec63c54fd822410d0962f8ca12385c4334891b9ae6dd2
   languageName: node
   linkType: hard
 
