@@ -28,13 +28,13 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.1.1",
     "@backstage/backend-tasks": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
+    "@backstage/plugin-catalog-backend": "0.1.1",
     "fs-extra": "10.1.0",
     "msw": "^0.47.0",
     "node-fetch": "^2.6.7",
