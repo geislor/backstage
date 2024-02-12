@@ -35,7 +35,7 @@
   "dependencies": {
     "@backstage/backend-common": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
-    "@backstage/backend-test-utils": "workspace:^",
+    "@backstage/backend-test-utils": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@types/express": "*",
