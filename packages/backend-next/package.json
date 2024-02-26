@@ -28,7 +28,7 @@
     "@backstage/backend-defaults": "workspace:^",
     "@backstage/plugin-app-backend": "workspace:^",
     "@backstage/plugin-catalog-backend": "workspace:^",
-    "@backstage/plugin-scaffolder-backend": "workspace:^"
+    "@backstage/plugin-scaffolder-backend": "1.15.0"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
