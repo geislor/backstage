@@ -33,12 +33,12 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@backstage/plugin-permission-node": "workspace:^",
-    "express": "^4.17.1",
+    "@backstage/backend-common": "0.1.1",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/backend-tasks": "0.1.0",
+    "@backstage/errors": "0.1.1",
+    "@backstage/plugin-permission-node": "0.1.0",
+    "express": "^4.19.2",
     "express-promise-router": "^4.1.0",
     "winston": "^3.2.1"
   },
