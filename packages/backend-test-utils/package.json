@@ -37,7 +37,7 @@
     "@backstage/backend-app-api": "workspace:^",
     "@backstage/backend-common": "workspace:^",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/cli": "workspace:^",
+    "@backstage/cli": "0.20.0",
     "@backstage/config": "workspace:^",
     "better-sqlite3": "^7.5.0",
     "knex": "^2.0.0",
@@ -48,7 +48,7 @@
     "uuid": "^8.0.0"
   },
   "devDependencies": {
-    "@backstage/cli": "workspace:^"
+    "@backstage/cli": "0.20.0"
   },
   "files": [
     "dist",
