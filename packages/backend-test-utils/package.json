@@ -34,9 +34,9 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-app-api": "0.4.1",
+    "@backstage/backend-common": "0.1.1",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/cli": "workspace:^",
     "@backstage/config": "workspace:^",
     "better-sqlite3": "^7.5.0",
