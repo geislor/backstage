@@ -34,7 +34,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
+    "@backstage/plugin-catalog-backend": "1.26.0",
     "fs-extra": "10.1.0",
     "msw": "^0.47.0",
     "node-fetch": "^2.6.7",
