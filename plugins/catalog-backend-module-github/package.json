@@ -40,7 +40,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
+    "@backstage/plugin-catalog-backend": "1.26.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/types": "workspace:^",
     "@octokit/graphql": "^5.0.0",
