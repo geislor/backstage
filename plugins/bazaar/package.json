@@ -26,7 +26,7 @@
     "@backstage/catalog-model": "workspace:^",
     "@backstage/cli": "workspace:^",
     "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
     "@backstage/plugin-catalog": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@date-io/luxon": "1.x",
